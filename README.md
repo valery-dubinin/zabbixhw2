@@ -17,8 +17,10 @@
 #### Решение
 
 Скриншоты настройки темплейта:
-
-
+ ![img](https://github.com/valery-dubinin/zabbixhw2/blob/main/scr/1.png)
+ ![img](https://github.com/valery-dubinin/zabbixhw2/blob/main/scr/2.png)
+ ![img](https://github.com/valery-dubinin/zabbixhw2/blob/main/scr/3.png)
+ ![img](https://github.com/valery-dubinin/zabbixhw2/blob/main/scr/4.png)
  ---
 
 ### Задание 2
@@ -38,8 +40,8 @@
  ---
 #### Решение
 
-Скриншоты хостов:
-
+Скриншот хостов:
+ ![img](https://github.com/valery-dubinin/zabbixhw2/blob/main/scr/5.png)
 
  ---
 
@@ -59,7 +61,7 @@
 #### Решение
 
 Скриншот привязки темплейта к хостам:
-
+ ![img](https://github.com/valery-dubinin/zabbixhw2/blob/main/scr/6.png)
 
  ---
 
@@ -78,7 +80,7 @@
 #### Решение
 
 Скриншоты дашборда:
-
+ ![img](https://github.com/valery-dubinin/zabbixhw2/blob/main/scr/7.png)
 
 
 
